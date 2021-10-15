@@ -40,7 +40,7 @@
      <string>Выбрать файл</string>
     </property>
    </widget>
-   <widget class="QLineEdit" name="lineEdit">
+   <widget class="QLineEdit" name="filePath">
     <property name="geometry">
      <rect>
       <x>10</x>
